@@ -1,0 +1,19 @@
+# Generated *.jar files
+*.jar
+
+# Folders for generated class files
+bin/
+target/
+
+# Eclipse specific stuff
+.project
+.settings/
+.externalToolBuilders/
+.classpath
+
+# Netbeans specific stuff
+nbactions.xml
+nb-configuration.xml
+
+# External stuff
+external/
